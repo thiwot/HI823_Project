@@ -10,10 +10,9 @@ estimators and specifications — see the full report for details.
 
 ## Repo contents
 
-- `diabetes_causal_analysis.ipynb` — full, executable analysis notebook
+- `HI823 Final Project.py` — full, executable analysis notebook
 - `requirements.txt` — Python dependencies
-- `figures/` — exported figures (DAG, propensity overlap, class balance)
-- `data/README.md` — instructions for downloading the dataset (not included here — see below)
+- `README.md` — instructions for downloading the dataset (not included here — see below)
 
 ## Getting the data
 
