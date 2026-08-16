@@ -1,4 +1,4 @@
-# HI823_Project: Insulin Therapy and 30-Day Readmission: A Causal Inference Analysis
+# HI823 Project: Insulin Therapy and 30-Day Readmission: A Causal Inference Analysis
 
 Causal analysis project for HI823, Summer 2026. Estimates whether inpatient
 insulin therapy affects 30-day hospital readmission among diabetic patients, using
